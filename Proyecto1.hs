@@ -393,3 +393,5 @@ primIguales' xs = primIgualesA (xs!!0) xs
 --[6, 6, 6]
 --ghci> primIguales' [0, 0, 2]
 --[0, 0]
+
+--
